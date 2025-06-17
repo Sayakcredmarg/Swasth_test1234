@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@drawable/rounded_button_background"
+    android:layout_marginBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView android:id="@+id/tvName" android:textStyle="bold" android:textSize="16sp"  android:layout_height="match_parent" android:layout_width="wrap_content"/>
+    <TextView android:id="@+id/tvUseCase" android:textColor="#555555"  android:layout_height="match_parent" android:layout_width="wrap_content"/>
+    <TextView android:id="@+id/tvDosage"  android:layout_height="match_parent" android:layout_width="wrap_content"/>
+    <TextView android:id="@+id/tvDoctorNote" android:textStyle="italic" android:textColor="#00695C"  android:layout_height="match_parent" android:layout_width="wrap_content"/>
+</LinearLayout>

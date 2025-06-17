@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Swasth" parent="Theme.Material3.DayNight.NoActionBar" />
+    <!-- Customize your dark theme here. -->
+    <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <!-- res/values/themes.xml -->
+    <style name="Theme.Swasth" parent="Theme.MaterialComponents.DayNight.NoActionBar"></style>
+</resources>

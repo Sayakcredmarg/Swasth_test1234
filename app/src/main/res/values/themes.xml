@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Swasth" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Swasth" parent="Base.Theme.Swasth" />
+
+
+    <style name="FloatStyle">
+        <item name="android:background">@drawable/bg_label</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+
+</resources>
