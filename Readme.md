@@ -58,7 +58,7 @@ Doctor Portal (via App) → Doctors can monitor patients, receive alerts, and pr
 
 👨‍⚕️ Doctor-Patient Profiles
 
-📞 Video Call (WebRTC) - Zegocloud third p
+📞 Video Call (WebRTC) - Zegocloud third party library 
 
 🛠️ Tech Stack
 Android App
