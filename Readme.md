@@ -41,7 +41,14 @@ Android App → Visualizes data in graphs, triggers alerts, provides hospital lo
 
 Doctor Portal (via App) → Doctors can monitor patients, receive alerts, and provide consultation.
 
-📸 Screenshots / Demo : 
+📸 Screenshots / Demo :
+
+
+![WhatsApp Image 2025-09-06 at 16 26 18_480cb561](https://github.com/user-attachments/assets/61e1d571-92d0-49a7-8f90-cd9bf92c14e6)
+![WhatsApp Image 2025-09-06 at 16 26 18_471a45d7](https://github.com/user-attachments/assets/cb7c340b-49df-4450-8aef-68424842d29f)
+![WhatsApp Image 2025-09-06 at 16 26 18_79bd5751](https://github.com/user-attachments/assets/27c4a532-34cc-4d15-a9e9-112573641e69)
+
+
 
 📊 Real-time Health Graphs
 
